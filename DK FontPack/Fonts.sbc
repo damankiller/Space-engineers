@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Fonts>
+    <Font>
+      <Id>
+        <TypeId>FontDefinition</TypeId>
+        <SubtypeId>CrystalCore</SubtypeId>
+      </Id>
+      <Path>Fonts\Crystal core\FontData.xml</Path>
+      <Default>false</Default>
+    </Font>
+	<Font>
+      <Id>
+        <TypeId>FontDefinition</TypeId>
+        <SubtypeId>MajorDuty</SubtypeId>
+      </Id>
+      <Path>Fonts\MLD\FontData.xml</Path>
+    </Font>
+	<Font>
+      <Id>
+        <TypeId>FontDefinition</TypeId>
+        <SubtypeId>RedSeven</SubtypeId>
+      </Id>
+      <Path>Fonts\RS\FontData.xml</Path>
+    </Font>
+	<Font>
+      <Id>
+        <TypeId>FontDefinition</TypeId>
+        <SubtypeId>RWBY</SubtypeId>
+      </Id>
+      <Path>Fonts\RWBY\FontData.xml</Path>
+    </Font>
+	<Font>
+      <Id>
+        <TypeId>FontDefinition</TypeId>
+        <SubtypeId>Space Font</SubtypeId>
+      </Id>
+      <Path>Fonts\Space engineer font\FontData.xml</Path>
+	  <Id>
+        <TypeId>FontDefinition</TypeId>
+        <SubtypeId>System</SubtypeId>
+      </Id>
+      <Path>Fonts\System\FontData.xml</Path>
+	  <Id>
+        <TypeId>FontDefinition</TypeId>
+        <SubtypeId>impact</SubtypeId>
+      </Id>
+      <Path>Fonts\impact\FontData.xml</Path>
+      <Default>false</Default>
+    </Font>
+  </Fonts>
+</Definitions>
